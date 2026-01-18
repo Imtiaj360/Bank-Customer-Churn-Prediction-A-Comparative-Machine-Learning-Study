@@ -1,7 +1,8 @@
 # Bank-Customer-Churn-Prediction-A-Comparative-Machine-Learning-Study
 This project addresses the financial risk of bank customer churn through a recall-optimized machine learning pipeline. It targets the 20.4% imbalance in customer behavior to identify at-risk clients before attrition occurs.
 
-Project Overview
+Project Overview:
+
 This repository contains a comprehensive study and implementation of machine learning models designed to predict customer churn for banking institutions. Customer retention is a critical strategic priority, as the cost of acquiring a new customer is significantly higher than retaining an existing one.
 The project evaluates five classification algorithms—Logistic Regression, Random Forest, XGBoost, LightGBM, and Gradient Boosting—specifically focusing on addressing class imbalance (20.4% churn rate) using SMOTE, Class Weight Adjustment, and SMOTE+Tomek Links.
 Key Objectives
