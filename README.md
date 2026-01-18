@@ -14,7 +14,7 @@ The project utilizes a Kaggle dataset of 10,000 bank customers, focusing on iden
 * **Demographics**: Age, Geography (France, Spain, Germany), and Gender.
 * **Account Information**: Tenure (years with the bank), Balance, Number of Products, and Active Membership status.
 * **Financial Profile**: Credit Score and Estimated Salary.
-* **Target Variable**: `Exited` (1 if the customer churned, 0 if they remained).
+* **Target Variable**: 1 if the customer churned, 0 if they remained.
 
 ### Data Distribution:
 * **Retained (Majority Class)**: 79.6%
