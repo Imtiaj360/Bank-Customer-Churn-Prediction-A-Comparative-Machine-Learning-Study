@@ -51,3 +51,4 @@ To assess practical utility, a business-impact scenario was simulated based on i
 ### Financial Findings:
 * **Cost Efficiency**: **Gradient Boosting with SMOTE** achieved the lowest simulated TBC of **$15,690**, representing a **24.7% reduction** in costs.
 * **Linear Model Improvement**: Logistic Regression showed a **49.9% cost reduction** when paired with SMOTE.
+> **Note**: This analysis is a synthetic simulation designed for model comparison. Actual financial impact may vary based on specific institutional cost structures.
